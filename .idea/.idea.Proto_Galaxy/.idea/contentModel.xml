@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\luffe\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\luffe\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Proto_Galaxy.1652263309.00" t="ExcludeRecursive" />
+    <e p="D:\COURS\Unity\Git\Proto_Galaxy" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="GravityCtrl.cs" t="Include" />
+          <e p="GravityOrbit.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerMovements.cs" t="Include" />
+          <e p="PlayerPhysics.cs" t="Include" />
+          <e p="TutorialCamera.cs" t="Include" />
+          <e p="TutorialPlayerPlaceholder.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Proto_Galaxy.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
